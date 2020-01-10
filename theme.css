@@ -17,7 +17,8 @@
 }
 
 .hljs-number,
-.hljs-literal {
+.hljs-literal,
+.hljs-symbol {
   color: #7a3e9d;
 }
 
